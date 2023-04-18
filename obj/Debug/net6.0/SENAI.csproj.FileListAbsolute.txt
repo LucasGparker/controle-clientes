@@ -1,0 +1,15 @@
+C:\SENAI\bin\Debug\net6.0\SENAI.exe
+C:\SENAI\bin\Debug\net6.0\SENAI.deps.json
+C:\SENAI\bin\Debug\net6.0\SENAI.runtimeconfig.json
+C:\SENAI\bin\Debug\net6.0\SENAI.dll
+C:\SENAI\bin\Debug\net6.0\SENAI.pdb
+C:\SENAI\obj\Debug\net6.0\SENAI.csproj.AssemblyReference.cache
+C:\SENAI\obj\Debug\net6.0\SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI\obj\Debug\net6.0\SENAI.AssemblyInfoInputs.cache
+C:\SENAI\obj\Debug\net6.0\SENAI.AssemblyInfo.cs
+C:\SENAI\obj\Debug\net6.0\SENAI.csproj.CoreCompileInputs.cache
+C:\SENAI\obj\Debug\net6.0\SENAI.dll
+C:\SENAI\obj\Debug\net6.0\refint\SENAI.dll
+C:\SENAI\obj\Debug\net6.0\SENAI.pdb
+C:\SENAI\obj\Debug\net6.0\SENAI.genruntimeconfig.cache
+C:\SENAI\obj\Debug\net6.0\ref\SENAI.dll
